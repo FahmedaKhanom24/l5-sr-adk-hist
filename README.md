@@ -1,4 +1,4 @@
-# l5-sr-adk-hist
+# One lake.ipynb
 
 When filtered lake maxdepth<=5 and min sample =5 the r^2= -0.11320562994439998
 When filtered lake maxdepth>=5 and min sample = 4 the r^2= 0.43570269188412003
